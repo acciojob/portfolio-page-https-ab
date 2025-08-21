@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+
+* {
+	background-color: #F5FAE1;
+}
+
+.section1 {
+	display:flex;
+	gap: 30px;
+}
+
+img {
+	height: 200px;
+	border-radius:10px;
+	display: flex;
+}
+
+h1 {
+	align-content:center;
+}
+
+a {
+	margin-top: 150px;
+	margin-right: 50px;
+}
